@@ -6,7 +6,7 @@ var apiResult = {
       name: 'Seleucus I Nicator',
       startReign: 305,
       endReign: 281,
-      consorts: ['Apama']
+      consort: ['Apama']
     },
     {
       name: 'Antiochus I Soter',
