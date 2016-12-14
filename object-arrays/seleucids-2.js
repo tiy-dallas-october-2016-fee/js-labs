@@ -202,7 +202,7 @@ var apiResult = {
 
 //Write a function that returns the king with the longest name
 
-//Write a function that takes a consorts name and returns all the kings she was consort with
+//Write a function that takes a consort's name and returns all the kings she was consort with
 
 //-------------------------
 
