@@ -617,6 +617,3 @@ var dataset = [
 //  Write a function that returns all years where there is a greater than 20K difference male and female population. Then have it take this data and return a new array of objects without the country and year properties. Requirements: use filter to accomplish the first and map to accomplish the second.
 
 // Write a function that returns all years where there is less than a 100K population. Then have it take this data and return a new array of objects with all the same properties, also including a new property containing the difference in male and female population. To get this, subtract the female population from the male population. Requirements: use filter to accomplish the first and map to accomplish the second.
-
-
-Requirement: use filter.
